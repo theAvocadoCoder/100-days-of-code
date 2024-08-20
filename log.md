@@ -9,3 +9,16 @@
 
 **Link(s) to work**
 1. [avocadohelpers repo](https://www.github.com/theAvocadoCoder/avocadohelpers)
+
+### Day 2: August 20, Tuesday
+
+**Today's Progress**: 
+1. I figured out how to type the parameter I had trouble with. I started working on the function. I learned a bit more about Typescript in the process.
+2. I had an interview with a Creator Sponsor User for Avi. It was insightful: I learned about the post-production process and I realized there is another user to pay attention to. Curators. Similar to the Creator User in that they also make content, but are more closely related to the Consumer User in that they consume more content to create.
+
+**Thoughts**:
+1. I am observing that a good deal of my time is being spent researching things and figuring things out. I am feeling more confident about my process as I go so that's a good thing.
+2. I will need to find a TypeScript roadmap or curriculum so I can have some guidance as I peruse the docs.
+
+**Link(s) to work**
+1. [avocadohelpers repo - commits for the day](https://github.com/theAvocadoCoder/avocadohelpers/commits/dom/?since=2024-08-21&until=2024-08-21)
