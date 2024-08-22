@@ -10,6 +10,7 @@
 **Link(s) to work**
 1. [avocadohelpers repo](https://www.github.com/theAvocadoCoder/avocadohelpers)
 
+
 ### Day 2: August 20, Tuesday
 
 **Today's Progress**: 
@@ -22,3 +23,14 @@
 
 **Link(s) to work**
 1. [avocadohelpers repo - commits for the day](https://github.com/theAvocadoCoder/avocadohelpers/commits/dom/?since=2024-08-21&until=2024-08-21)
+
+
+### Day 3: August 21, Wednesday
+
+**Today's Progress**:
+1. I worked on my DOM utility functions.
+2. The createElement function's option parameter has a property, attributes. The type of this attribute was pretty convoluted so I refactored to simplify it. I finished implementing the createElement function that creates a new element with attributes, styles and children.
+3. I modified the style function so that rather than adding the styles to the element's inline styles, it accepts a stylesheet or creates a new one if absent. If no stylesheet is passed, it creates a style element and returns the element's generated id.
+
+**Links(s) to work**
+1. [avocadohelpers repo - commits for the day](https://github.com/theAvocadoCoder/avocadohelpers/commits/dom/?since=2024-08-22&until=2024-08-22)
