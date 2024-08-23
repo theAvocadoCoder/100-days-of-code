@@ -34,3 +34,13 @@
 
 **Links(s) to work**
 1. [avocadohelpers repo - commits for the day](https://github.com/theAvocadoCoder/avocadohelpers/commits/dom/?since=2024-08-22&until=2024-08-22)
+
+
+### Day 4: August 22, Thursday
+
+**Today's Progress**:
+1. I solved some HackerRank problems.
+2. I worked on a string case converter function for my helper functions package.
+
+**Link(s) to work**:
+1. [avocadohelpers repo - commits for the day](https://github.com/theAvocadoCoder/avocadohelpers/commits/string?since=2024-08-23&until=2024-08-23)
