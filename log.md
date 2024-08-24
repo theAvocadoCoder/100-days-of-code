@@ -44,3 +44,13 @@
 
 **Link(s) to work**:
 1. [avocadohelpers repo - commits for the day](https://github.com/theAvocadoCoder/avocadohelpers/commits/string?since=2024-08-23&until=2024-08-23)
+
+
+### Day 5: August 23, Friday
+
+**Today's Progress**:
+1. I fixed the bugs in my stringConverter function and expanded its functionality
+2. I solved the FCC palindrome project
+
+**Link(s) to work**: 
+1. [avocadohelpers repo - commits for the day](https://github.com/theAvocadoCoder/avocadohelpers/commits/string?since=2024-08-23&until=2024-08-23)
