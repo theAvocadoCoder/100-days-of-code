@@ -54,3 +54,9 @@
 
 **Link(s) to work**: 
 1. [avocadohelpers repo - commits for the day](https://github.com/theAvocadoCoder/avocadohelpers/commits/string?since=2024-08-23&until=2024-08-23)
+
+
+### Day 6: August 24, Saturday
+
+**Today's Progress**:
+1. I solved the FCC roman numeral converter project
