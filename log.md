@@ -60,3 +60,12 @@
 
 **Today's Progress**:
 1. I solved the FCC roman numeral converter project
+
+
+### Day 7: August 25th, Sunday
+
+**Today's Progress**:
+1. I started working on the daily bingo app. So far I'm just doing basic config stuff.
+
+**Thoughts**:
+1. Haven't touched Vue in a while and I've never used Nuxt so I'm enjoying the learning as I go. This feels like I will be out of my comfort zone for most of the project, which is fitting since it is supposed to be a challenge.
