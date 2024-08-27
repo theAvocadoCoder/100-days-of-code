@@ -69,3 +69,15 @@
 
 **Thoughts**:
 1. Haven't touched Vue in a while and I've never used Nuxt so I'm enjoying the learning as I go. This feels like I will be out of my comfort zone for most of the project, which is fitting since it is supposed to be a challenge.
+
+
+### Day 8: August 26th, Monday
+
+**Today's Progress**:
+1. I started working on the bingo card today. I've added functionality for marking a cell. I'll work on verifying a win for rows, columns, diagonals, and bingo.
+
+**Thoughts**:
+1. Using Nuxt is not so different from using Vie. I suspect the differences will become more evident when I have to do more complicated things.
+
+**Link(s) to work**:
+1. [daily-bingo repo - commits for the day](https://github.com/theAvocadoCoder/daily-bingo/commits/main/?since=2024-08-27&until=2024-08-27)
