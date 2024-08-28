@@ -81,3 +81,10 @@
 
 **Link(s) to work**:
 1. [daily-bingo repo - commits for the day](https://github.com/theAvocadoCoder/daily-bingo/commits/main/?since=2024-08-27&until=2024-08-27)
+
+
+### Day 9: August 27th, Tuesday
+
+**Today's Progress**:
+1. I changed the cell highlighter color and started defining win styles for the bingo card.
+
