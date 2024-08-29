@@ -88,3 +88,13 @@
 **Today's Progress**:
 1. I changed the cell highlighter color and started defining win styles for the bingo card.
 
+
+### Day 10: August 28th, Wednesday
+
+**Today's Progress**:
+1. I defined the basic win styles for the bingo card: rows, columns, corners, diagonals, and blackout.
+2. Added an unselect feature in case of accidental markings.
+
+**Link(s) to work**:
+1. [daily-bingo repo - commits for the day](https://github.com/theAvocadoCoder/daily-bingo/commits/main/?since=2024-08-29&until=2024-08-29)
+
