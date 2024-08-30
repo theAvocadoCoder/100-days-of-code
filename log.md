@@ -98,3 +98,23 @@
 **Link(s) to work**:
 1. [daily-bingo repo - commits for the day](https://github.com/theAvocadoCoder/daily-bingo/commits/main/?since=2024-08-29&until=2024-08-29)
 
+
+### Day 11: August 29th, Thursday
+
+**Today's Progress**:
+1. I connected to a mongoDB cluster and defined the schema for the Bingo card.
+2. I modified the bingo card to just be an array of cells rather than a 2d array. My rationale for this is that since the cell object already contains information about what row and column it belongs to, there's no need to group cells into rows.
+3. I added a feature to reset the bingo card.
+
+**Thoughts**:
+1. Now that I'm doing more unfamiliar work, I ironically feel more at peace. I think this is the high I was chasing when I first started learning to code; staying up late, trying to fix a bug, hopping from article to documentation to StackOverflow, trying to understand concepts that dance just a little out of reach the longer you think about them. I wasn't expecting this project to be the one that gave me this feeling again, but I'm grateful all the same.
+2. I started this challenge because I wanted to build projects that reflect my current skillset. Somewhere along my journey, I got discouraged. Maybe it was the constant struggle of trying to find my feet in a profession I felt grossly unqualified to be in. Maybe it was the constant stream of rejection emails reinforcing the imposter syndrome we all wrestle with. Maybe it was just life, life-ing.
+3. Whatever it was, I'd lost that zest I had in the beginning. But I'm back now. I intentionally started this project with nothing more than a vague idea of my MVP. I tend to get lost in the weeds of perfectionism and I end up delaying things I could have started ages ago.
+4. The app doesn't look like much yet but I'm proud of the progress I'm making.
+
+**Link(s) to work**:
+1. [MongoDB setup](https://github.com/theAvocadoCoder/daily-bingo/commit/b48ad3ab69a21e8738f886e0bcd38a733d11e0c2)
+2. [Bingo Card structure modifications](https://github.com/theAvocadoCoder/daily-bingo/commit/5ae45f879c693a9cc26136b2dfaa1f7187536cf2)
+3. [Reset feature](https://github.com/theAvocadoCoder/daily-bingo/commit/2f7ca7db4bbf4ab466b12aca394ef27fc06704fa)
+
+
