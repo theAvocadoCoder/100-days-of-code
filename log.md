@@ -118,3 +118,16 @@
 3. [Reset feature](https://github.com/theAvocadoCoder/daily-bingo/commit/2f7ca7db4bbf4ab466b12aca394ef27fc06704fa)
 
 
+### Day 12: August 30th, Friday
+
+**Today's Progress**:
+1. I setup Vuetify and started implementing the bottom navigation for the webapp
+2. I started refactoring the bingo card to use a canvas instead of dynamically rendered divs. I think this will make it easier to convert the cards to downloadable images later on.
+
+**Thoughts**:
+1. I have a feeling marking a cell will be a lot harder to implement using canvas.
+2. I am learning a lot about how Nuxt works. I think I'll get started on setting up unit tests tomorrow. I'm not familiar with testing but I know enough to know it's better to get started at the start of the project rather than later.
+
+**Link(s) to work**:
+1. [Vuetify refactor](https://github.com/theAvocadoCoder/daily-bingo/commit/e4b4f9befb63b664183804c577cc2de8563ece62)
+2. [Canvas refactor](https://github.com/theAvocadoCoder/daily-bingo/commit/fec1537567db2da79ad71169a96d930b6a7d6bff)
