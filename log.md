@@ -131,3 +131,15 @@
 **Link(s) to work**:
 1. [Vuetify refactor](https://github.com/theAvocadoCoder/daily-bingo/commit/e4b4f9befb63b664183804c577cc2de8563ece62)
 2. [Canvas refactor](https://github.com/theAvocadoCoder/daily-bingo/commit/fec1537567db2da79ad71169a96d930b6a7d6bff)
+
+
+### Day 13: August 31st, Saturday
+
+**Today's Progress**:
+1. I implemented feedback when a cell is marked. Essentially spent the whole day trying to figure out how to make changes to the canvas without having to re-render the whole thing. Did not make any headway on that front, so re-rendering it is.
+
+**Thoughts**:
+1. As it turns out, marking the cell isn't the part I have issues with. I can't figure out how to implement the highlight for some reason. I'll keep at it cause I know it's possible.
+
+**Link(s) to work**:
+1. [Feedback implementation](https://github.com/theAvocadoCoder/daily-bingo/commit/378d048af6f889ebbce85b218c2dda0566ad3100)
