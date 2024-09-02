@@ -143,3 +143,19 @@
 
 **Link(s) to work**:
 1. [Feedback implementation](https://github.com/theAvocadoCoder/daily-bingo/commit/378d048af6f889ebbce85b218c2dda0566ad3100)
+
+
+### Day 14: September 1st, Sunday
+
+**Today's Progress**:
+1. I completed the refactoring to render the bingo card using HTML canvas. 
+2. I tweaked the controls to accommodate the canvas setup, so cells get registered and wins get updated properly.
+3. I started working on a feature that updates the cell register based on which cells are marked during the first render.
+
+**Thoughts**:
+1. For the cell register, I might need to change my markCell function. Maybe break it up into smaller pieces. (I ran into an infinite loop problem trying to call it from the drawCell function. I will also need to create state to track cell registration. So when the card is fetched, the document returned will also contain cell registration information.
+2. I'm shelving the highlight feature for now. I don't know if the multiple re-renders will affect performance and I'm spending too much time on a non-essential feature.
+
+**Link(s) to work**:
+1. [Canvas Refactor](https://github.com/theAvocadoCoder/daily-bingo/commit/ebde9a4e909c71c1998ead8e5b364c50b345e5f4)
+
