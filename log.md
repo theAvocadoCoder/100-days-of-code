@@ -159,3 +159,21 @@
 **Link(s) to work**:
 1. [Canvas Refactor](https://github.com/theAvocadoCoder/daily-bingo/commit/ebde9a4e909c71c1998ead8e5b364c50b345e5f4)
 
+
+### Day 15: September 2nd, Monday
+
+**Today's Progress**:
+1. I fixed the infinite loop bug and completed the feature for registering cells during the first render. This way, progress made on a card will be trackable.
+2. I added a confirmation dialog to the reset button.
+3. I added linear progress bars for the win cases.
+
+**Thoughts**:
+1. I went through the Vue documentation for a refresher on vue directives, which was insightful.
+2. I got to apply some Material Design UX writing best practices and that was cool. I may need to make some wireframes in figma so I have something more concrete to follow as I develop the app.
+
+**Link(s) to work**:
+1. [Inf loop bug fix](https://github.com/theAvocadoCoder/daily-bingo/commit/d1afc673360559e6965164b4d698a4b7fc448635)
+2. [First render cell registration](https://github.com/theAvocadoCoder/daily-bingo/commit/46c434a618ed3274c34dddcef24a72ecd9bb5ff8)
+3. [Confirmation dialog](https://github.com/theAvocadoCoder/daily-bingo/commit/5ed96e6e3a6d0a0a10d04b1fd956e21859c6e57b)
+4. [Linear progress bars](https://github.com/theAvocadoCoder/daily-bingo/commit/1bfb40341f44605e229d96136b94735e8d84e22b)
+
