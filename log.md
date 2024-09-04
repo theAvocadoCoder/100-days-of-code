@@ -168,8 +168,8 @@
 3. I added linear progress bars for the win cases.
 
 **Thoughts**:
-1. I went through the Vue documentation for a refresher on vue directives, which was insightful.
-2. I got to apply some Material Design UX writing best practices and that was cool. I may need to make some wireframes in figma so I have something more concrete to follow as I develop the app.
+1. I went through the Vue documentation for a refresher on Vue directives, which was insightful.
+2. I got to apply some Material Design UX writing best practices and that was cool. I may need to make some wireframes in Figma so I have something more concrete to follow as I develop the app.
 
 **Link(s) to work**:
 1. [Inf loop bug fix](https://github.com/theAvocadoCoder/daily-bingo/commit/d1afc673360559e6965164b4d698a4b7fc448635)
@@ -181,9 +181,9 @@
 ### Day 16: September 3rd, Tuesday
 
 **Today's Progress**:
-1. I went over MongoDB, Nuxt and Nitro docs to get familiar with data modelling and setting up my server
+1. I went over MongoDB, Nuxt, and Nitro docs to get familiar with data modeling and setting up my server
 2. I defined data models for a user, a bingo card, a cell, and a bingo group
-3. I refactored my mongodb setup to use the official mongodb driver (rather than mongoose) and I also moved my configuration into a MongoIO class to make it cleaner.
+3. I refactored my Mongodb setup to use the official Mongodb driver (rather than Mongoose) and moved my configuration into a MongoIO class to make it cleaner.
 4. I defined the user API route and fetched the user's username to be displayed on the / route
 
 **Thoughts**:
@@ -193,4 +193,20 @@
 1. [Data models](https://github.com/theAvocadoCoder/daily-bingo/commit/8810f5e1db5ec6d49c6bc95e357b29829be2e85a)
 2. [Mongo refactor](https://github.com/theAvocadoCoder/daily-bingo/commit/b2f6e80ad34d87854ac89b514d7b63b029f2a081)
 3. [User route](https://github.com/theAvocadoCoder/daily-bingo/commit/074a7a9ce7a2979ab518f7e73e607a6102702675)
+
+
+### Day 17: September 4th, Wednesday
+
+**Today's Progress**:
+1. I worked some more on the APIs; learned more about how nitro handles routing, defined the /api/user/:id route and the /api/cards/:id route, and wrote the handlers for getting resources at those endpoints.
+2. I made the bingo card a component rather than a page since it will be reused throughout the app.
+
+**Thoughts**:
+1. The app is really starting to come together in my head. I still haven't done wireframes, but I'm getting a better sense of what I want the app to look like as I go, and since I'm using Vuetify, it'll be easier to use Material Design when I eventually put things down in Figma.
+2. I want to use OpenAPI's npm package so I can generate texts for the card. I'm really looking forward to the reading I'll do for that as I've never worked with AI before.
+
+**Link(s) to work**:
+1. API routes - [MongoIO methods](https://github.com/theAvocadoCoder/daily-bingo/commit/d4f264c79e0a20d4cc50ca9e27a6cf351172be85) and [Request handlers](https://github.com/theAvocadoCoder/daily-bingo/commit/352fa5c2bd2e572628e906b240c09b5cfee476c5)
+2. Bingo card refactor - [Component refactor](https://github.com/theAvocadoCoder/daily-bingo/commit/f4a9185769a1588172ee21bc668565dacd6bd7e3) and [Usage](https://github.com/theAvocadoCoder/daily-bingo/commit/d43b90b68f27ab561c80f2a13b01f5d63bd084cb)
+
 
