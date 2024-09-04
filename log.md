@@ -177,3 +177,20 @@
 3. [Confirmation dialog](https://github.com/theAvocadoCoder/daily-bingo/commit/5ed96e6e3a6d0a0a10d04b1fd956e21859c6e57b)
 4. [Linear progress bars](https://github.com/theAvocadoCoder/daily-bingo/commit/1bfb40341f44605e229d96136b94735e8d84e22b)
 
+
+### Day 16: September 3rd, Tuesday
+
+**Today's Progress**:
+1. I went over MongoDB, Nuxt and Nitro docs to get familiar with data modelling and setting up my server
+2. I defined data models for a user, a bingo card, a cell, and a bingo group
+3. I refactored my mongodb setup to use the official mongodb driver (rather than mongoose) and I also moved my configuration into a MongoIO class to make it cleaner.
+4. I defined the user API route and fetched the user's username to be displayed on the / route
+
+**Thoughts**:
+1. I'm definitely feeling a bit over my head here with the backend stuff, but it's also exciting to see the pieces fall into place.
+
+**Link(s) to work**:
+1. [Data models](https://github.com/theAvocadoCoder/daily-bingo/commit/8810f5e1db5ec6d49c6bc95e357b29829be2e85a)
+2. [Mongo refactor](https://github.com/theAvocadoCoder/daily-bingo/commit/b2f6e80ad34d87854ac89b514d7b63b029f2a081)
+3. [User route](https://github.com/theAvocadoCoder/daily-bingo/commit/074a7a9ce7a2979ab518f7e73e607a6102702675)
+
