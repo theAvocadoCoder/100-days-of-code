@@ -210,3 +210,14 @@
 2. Bingo card refactor - [Component refactor](https://github.com/theAvocadoCoder/daily-bingo/commit/f4a9185769a1588172ee21bc668565dacd6bd7e3) and [Usage](https://github.com/theAvocadoCoder/daily-bingo/commit/d43b90b68f27ab561c80f2a13b01f5d63bd084cb)
 
 
+### Day 18: September 5th, Thursday
+
+**Today's Progress**:
+1. I worked on a feature for generating the daily bingo card from a random selection of phrases.
+
+**Thoughts**:
+1. I spent the day going over Hugging Face' docs. I couldn't find any model that did what I was looking for out of the box, so I'm shelving the AI integration until I've figured that out. I instead used ChatGPT to generate a few hundred phrases that will serve as the pool for random selections.
+
+**Link(s) to work**:
+1. API route - [Mongo methods](https://github.com/theAvocadoCoder/daily-bingo/commit/738bae7ada54b2a9cdd8146ef31452568cf8b985) and [Request handlers](https://github.com/theAvocadoCoder/daily-bingo/commit/b729782051a81ef7d30da504ff2b1cd0133537a8)
+3. Bingo card - [Usage](https://github.com/theAvocadoCoder/daily-bingo/commit/7428cdb4d009dc9a4550518d34758ce548ff4e8d)
