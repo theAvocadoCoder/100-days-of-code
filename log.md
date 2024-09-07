@@ -221,3 +221,17 @@
 **Link(s) to work**:
 1. API route - [Mongo methods](https://github.com/theAvocadoCoder/daily-bingo/commit/738bae7ada54b2a9cdd8146ef31452568cf8b985) and [Request handlers](https://github.com/theAvocadoCoder/daily-bingo/commit/b729782051a81ef7d30da504ff2b1cd0133537a8)
 3. Bingo card - [Usage](https://github.com/theAvocadoCoder/daily-bingo/commit/7428cdb4d009dc9a4550518d34758ce548ff4e8d)
+
+
+### Day 19: September 6th, Friday
+
+**Today's Progress**:
+1. Much of what I did today was fix tiny bugs with large consequences 🥲
+2. I also implemented persistent storage for the current user and for the daily bingo card.
+
+**Thoughts**:
+1. A good deal of the work I seem to be doing right now is reading docs and checking out responses on Stack Overflow. I'm not complaining though, I enjoy the reading.
+2. Figuring out that (correctly) implementing persistent storage was the solution to a bug I had where duplicate API calls were creating unused bingo cards, and then figuring out how to properly implement persistent storage was fun. I kind of wish it had taken less than 3 hours though 😅
+
+**Link(s) to work**:
+1. [Daily Bingo commits (bug fixes et al)](https://github.com/theAvocadoCoder/daily-bingo/commits/main/?since=2024-09-07&until=2024-09-07)
