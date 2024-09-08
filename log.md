@@ -239,6 +239,13 @@
 
 ### Day 20: September 7th, Saturday
 
-**Today's Progres**:
+**Today's Progress**:
 1. Got started working on the wireframe for the daily bingo app
 2. Worked on a bug that blurs the canvas on smaller screens. Haven't found a fix I like yet.
+
+
+### Day 21: September 8th, Sunday
+
+**Today's Progress**:
+1. Made some progress with the wireframes for the daily bingo app; I now have the mobile screens for the home, cards, and groups pages.
+
