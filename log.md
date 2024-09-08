@@ -235,3 +235,10 @@
 
 **Link(s) to work**:
 1. [Daily Bingo commits (bug fixes et al)](https://github.com/theAvocadoCoder/daily-bingo/commits/main/?since=2024-09-07&until=2024-09-07)
+
+
+### Day 20: September 7th, Saturday
+
+**Today's Progres**:
+1. Got started working on the wireframe for the daily bingo app
+2. Worked on a bug that blurs the canvas on smaller screens. Haven't found a fix I like yet.
