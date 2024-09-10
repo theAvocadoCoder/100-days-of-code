@@ -249,3 +249,11 @@
 **Today's Progress**:
 1. Made some progress with the wireframes for the daily bingo app; I now have the mobile screens for the home, cards, and groups pages.
 
+
+### Day 22: September 9th, Monday
+
+**Today's Progress**:
+1. Refactored to use dynamically rendered divs again. No more blurry text on mobile screens.
+2. Got started implementing the mobile designs.
+3. Made some LF wireframes for the desktop views.
+
