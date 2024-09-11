@@ -257,3 +257,14 @@
 2. Got started implementing the mobile designs.
 3. Made some LF wireframes for the desktop views.
 
+### Day 23: September 10th, Tuesday
+
+**Today's Progress**:
+1. Implemented layouts for desktop and mobile screens
+2. Started working on integrating Tailwind into the project
+
+**Thoughts**:
+1. Integrating Tailwind and Vuetify is giving me more trouble than I initially anticipated. I need Tailwind's flexible utility classes but I need Vuetify's components. I want to disable Vuetify's utility classes so I don't have any clashes and also to reduce bloat. But I seem to be doing something wrong (I suspect this is because of my inexperience with Sass). I'll keep at it tomorrow and hopefully make headway then
+
+**Link(s) to work**:
+1. [Layouts](https://github.com/theAvocadoCoder/daily-bingo/commit/1a98d953ee564979ef56850d34806f0eb1f22a9e)
