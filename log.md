@@ -268,3 +268,18 @@
 
 **Link(s) to work**:
 1. [Layouts](https://github.com/theAvocadoCoder/daily-bingo/commit/1a98d953ee564979ef56850d34806f0eb1f22a9e)
+
+
+### Day 24: September 11th, Wednesday
+
+**Today's Progress**:
+1. Made HF wireframe for home desktop view
+2. Disabled Vuetify utility classes and refactored to use Tailwind.
+
+**Thoughts**:
+1. The solution I found to disabling Vuetify's utility classes still requires a few extra tweaks here and there but it works. Ironically, the vuetify-nuxt-module documentation that I went over, like, a thousand times had the answer I was looking for. I find it interesting how the solutions to problems can be in plain sight yet out of reach due to inexperience or lack of knowledge.
+
+**Link(s) to work**:
+1. [Vuetify-Tailwind Refactor](https://github.com/theAvocadoCoder/daily-bingo/commits/main/?since=2024-09-12&until=2024-09-12)
+
+
