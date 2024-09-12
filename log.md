@@ -283,3 +283,18 @@
 1. [Vuetify-Tailwind Refactor](https://github.com/theAvocadoCoder/daily-bingo/commits/main/?since=2024-09-12&until=2024-09-12)
 
 
+### Day 25: September 12th, Thursday
+
+**Today's Progress**:
+1. Implemented better, but still temporary solution for disabling Vuetify utility classes (but not all other styles)
+2. Started styling the home page.
+
+**Thoughts**:
+1. So, apparently, the fix I found yesterday disabled some Vuetify's styles being used by some vuetify components but not all of them. So I had this situation where some Vuetify styling lingered and made it hard for me to apply my own custom styles.
+2. I found a few issues on the vuetify-next-module repo that helped with this temporary fix. I essentially just reverted the versions of the module (and also nuxt). It seems to be some sort of compatibility issue but idk for sure.
+
+**Link(s) to work**:
+1. The fix: [Reverting versions](https://github.com/theAvocadoCoder/daily-bingo/commit/ea736dcb0db1ad933306b8553769f32e5c09f823) and [Configuring custom sass](https://github.com/theAvocadoCoder/daily-bingo/commit/89261b1c41f5b0db2df9432fc9b7cdb30d7b2a72)
+2. [Home styling so far](https://github.com/theAvocadoCoder/daily-bingo/commit/21d24f12a65a72e85951fc79806e79a0fb2a8280)
+
+
