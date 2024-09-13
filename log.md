@@ -298,3 +298,19 @@
 2. [Home styling so far](https://github.com/theAvocadoCoder/daily-bingo/commit/21d24f12a65a72e85951fc79806e79a0fb2a8280)
 
 
+### Day 26: September 13th, Friday
+
+**Today's Progress**:
+1. Got in touch with one of the maintainers of the vuetify-nuxt-module and the latest release now has a fix. I updated my dependencies and everything works as it should now.
+2. Mostly worked on one of the mentorHub UIs today. I set up the routes (they only display hello world for now), configured the store to get the data I need from the API, and set up Docker.
+
+**Thoughts**:
+1. I can tell there's a lot about Docker I don't get yet. But from what I do understand, the usefulness of it, especially in collaborative projects blows my mind every time. I've also noticed that the more Dockerfiles I write, the less alien the commands seem to me.
+
+**Link(s) to work**: 
+1. Daily Bingo: [solution to the sass problem](https://github.com/theAvocadoCoder/daily-bingo/commits/main/?since=2024-09-13&until=2024-09-13)
+2. MentorHub: [basic set up](https://github.com/agile-learning-institute/mentorHub-partner-ui/commits/create-ui-issue%231/?since=2024-09-13&until=2024-09-13)
+
+
+
+
