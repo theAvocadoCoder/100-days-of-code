@@ -312,5 +312,17 @@
 2. MentorHub: [basic set up](https://github.com/agile-learning-institute/mentorHub-partner-ui/commits/create-ui-issue%231/?since=2024-09-13&until=2024-09-13)
 
 
+### Day 27: September 14th, Saturday
 
+**Today's Progress**:
+1. I built and tested the container for the mentorhub partner UI. I learned a bit about configuring a proxy on the dev server.
+2. I finally finished styling the daily bingo home page (just the desktop view though).
+
+**Thoughts**:
+1. I seem to be battling with vuetify components. I suspect this is partly because I am trying to style them with Tailwind
+2. I should read up on SSR so I can fully take advantage of Nuxt's features. Right now, I feel like I'm using a combat knife to whittle; it works, but it's pretty obvious it's meant to be doing something else.
+
+**Link(s) to work**:
+1. MentorHub: [partner-ui](https://github.com/agile-learning-institute/mentorHub-partner-ui/pull/3)
+2. Daily Bingo: [Home page desktop view](https://github.com/theAvocadoCoder/daily-bingo/commit/92700c91df9c688c828f59d35890aa7f3732b9fa)
 
