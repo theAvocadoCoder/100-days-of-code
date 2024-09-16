@@ -326,3 +326,13 @@
 1. MentorHub: [partner-ui](https://github.com/agile-learning-institute/mentorHub-partner-ui/pull/3)
 2. Daily Bingo: [Home page desktop view](https://github.com/theAvocadoCoder/daily-bingo/commit/92700c91df9c688c828f59d35890aa7f3732b9fa)
 
+
+### Day 28: September 15th, Sunday
+**Today's Progress**:
+1. I learned a bit about SSR; this allowed me understand the hydration mismatch warning I've been getting in the console and refactor my code so my server and client are getting the same content.
+2. I styled the mobile view for the bingo home page.
+
+**Link(s) to work**:
+1. [Daily Bingo dev site](https://dailybingo.netlify.app/) (I'm not able to fetch the bingo card in production yet, but I'll figure it out soon)
+2. [Fix for Hydration Mismatch](https://github.com/theAvocadoCoder/daily-bingo/commit/d35352ea23cdd3463a9b2af54c3de2d15599e031)
+
