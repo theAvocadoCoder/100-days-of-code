@@ -328,6 +328,7 @@
 
 
 ### Day 28: September 15th, Sunday
+
 **Today's Progress**:
 1. I learned a bit about SSR; this allowed me understand the hydration mismatch warning I've been getting in the console and refactor my code so my server and client are getting the same content.
 2. I styled the mobile view for the bingo home page.
@@ -336,3 +337,17 @@
 1. [Daily Bingo dev site](https://dailybingo.netlify.app/) (I'm not able to fetch the bingo card in production yet, but I'll figure it out soon)
 2. [Fix for Hydration Mismatch](https://github.com/theAvocadoCoder/daily-bingo/commit/d35352ea23cdd3463a9b2af54c3de2d15599e031)
 
+
+### Day 29: September 16th, Monday
+
+**Today's Progress**:
+1. Watched a few videos on Nuxt and did some more reading; came to the conclusion that my app is not a good use case for SSR. (guess I'll have to find some other project to do that is)
+2. Configured Nitro for Netlify properly and removed the fixes I initially found for rehydration issues. Site now loads a random card and a placeholder user on Netlify
+3. Moved the logic for fetching data to the components fetching, rather than the store. The site is not complex enough to warrant it and I'm finding it hard to get reactivity that way.
+
+**Thoughts**:
+1. I feel like I'm getting familiar with Nuxt which is nice. My original plan was to use Firebase for IAM and use MongoDB for data, I have a suspicion (though I have no reason to) that I will run into difficulties with that. Guess I'll just have to start to know.
+
+**Link(s) to work**:
+1. [Code stuff](https://github.com/theAvocadoCoder/daily-bingo/commits/main/?since=2024-09-17&until=2024-09-17)
+2. [Live site](https://dailybingo.netlify.app/)
