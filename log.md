@@ -351,3 +351,12 @@
 **Link(s) to work**:
 1. [Code stuff](https://github.com/theAvocadoCoder/daily-bingo/commits/main/?since=2024-09-17&until=2024-09-17)
 2. [Live site](https://dailybingo.netlify.app/)
+
+
+### Day 30: September 17th, Tuesday
+
+**Today's Progress**:
+1. I set up a service account in Firebase and got started setting up authentication on the Daily Bingo app.
+
+**Thoughts**:
+1. I spent a lot of time deliberating over whether or not to go with Firebase for authentication. I found a video that explained how to get authentication done with sidebase/nuxt-auth module. I'm contemplating giving that a go (perhaps I'll make separate branches so I can try both ways since I'm finding it hard to make a decision).
