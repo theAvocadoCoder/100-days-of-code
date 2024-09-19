@@ -360,3 +360,15 @@
 
 **Thoughts**:
 1. I spent a lot of time deliberating over whether or not to go with Firebase for authentication. I found a video that explained how to get authentication done with sidebase/nuxt-auth module. I'm contemplating giving that a go (perhaps I'll make separate branches so I can try both ways since I'm finding it hard to make a decision).
+
+
+### Day 31: September 18th, Wednesday
+
+**Today's Progress**:
+1. I ditched the Firebase idea. For now. I'm going with Auth0. Seems like an option I can easily transition from and their free tier is just as generous. I configured the sidebase-auth module and it sort of works but I still need to work on the flow.
+
+**Link(s) to work**:
+1. [Sidebase config](https://github.com/theAvocadoCoder/daily-bingo/commit/3733f45ed7e4c994c70b693edd4aa2764d51ea47)
+2. [Live site](https://dailybingo.netlify.app/)
+
+
