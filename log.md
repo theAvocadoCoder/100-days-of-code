@@ -372,3 +372,11 @@
 2. [Live site](https://dailybingo.netlify.app/)
 
 
+### Day 32: September 19th, Thursday
+
+**Today's Progress**:
+1. I feel like the Daily Bingo app is starting to come together now. I've set up my auth routes and guest mode. The app displays the session user's details. User's details get saved to my dailybingo database upon registration. User's card details persist.
+
+**Thoughts**:
+1. My least favorite activity is trying to make sense of the changes I've made so I can make meaningful git commits. But I'm happy I take the time to do it anyway, I feel like it's a good habit to develop, so I'm not a pain to collaborate with.
+2. I've gotten a partner for the Playlist app. This is the project I'm most excited about, and I think working on the Daily Bingo app has helped me to get some momentum with research and failing first. 
