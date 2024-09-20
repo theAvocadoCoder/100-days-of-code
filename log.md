@@ -380,3 +380,14 @@
 **Thoughts**:
 1. My least favorite activity is trying to make sense of the changes I've made so I can make meaningful git commits. But I'm happy I take the time to do it anyway, I feel like it's a good habit to develop, so I'm not a pain to collaborate with.
 2. I've gotten a partner for the Playlist app. This is the project I'm most excited about, and I think working on the Daily Bingo app has helped me to get some momentum with research and failing first. 
+
+
+### Day 33: September 20th, Friday
+
+**Today's Progress**:
+1. I set up the profile page so the user can edit their display name on the Daily Bingo app
+
+
+**Link(s) to work**:
+1. [Profile menu](https://github.com/theAvocadoCoder/daily-bingo/commit/c1c798e2a007eb8bb2659b34c9fc47e33ffe2be0)
+2. [Edit profile page](https://github.com/theAvocadoCoder/daily-bingo/commit/5b1e1d69ad7026e357c7a1c4e49859023121d20f)
