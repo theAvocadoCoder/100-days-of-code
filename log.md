@@ -391,3 +391,13 @@
 **Link(s) to work**:
 1. [Profile menu](https://github.com/theAvocadoCoder/daily-bingo/commit/c1c798e2a007eb8bb2659b34c9fc47e33ffe2be0)
 2. [Edit profile page](https://github.com/theAvocadoCoder/daily-bingo/commit/5b1e1d69ad7026e357c7a1c4e49859023121d20f)
+
+
+### Day 34: September 21st, Saturday
+
+**Today's Progress**:
+1. I set up a route to handle changing the user's picture on Auth0. Will set up uploading to Cloudinary tomorrow.
+
+**Link(s) to work**:
+1. [Commits for the day](https://github.com/theAvocadoCoder/daily-bingo/commits/main/?since=2024-09-21&until=2024-09-21)
+2. [Live site](https://dailybingo.netlify.app/)
