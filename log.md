@@ -401,3 +401,12 @@
 **Link(s) to work**:
 1. [Commits for the day](https://github.com/theAvocadoCoder/daily-bingo/commits/main/?since=2024-09-21&until=2024-09-21)
 2. [Live site](https://dailybingo.netlify.app/)
+
+
+### Day 35: September 22nd, Sunday
+
+**Today's Progress**:
+1. Did week one of HackerRank's 3-Month preparation kit
+
+**Thoughts**:
+1. Moving forward, I'll take it much easier during the weekends and strive for only an hour of work to prevent burnout.
