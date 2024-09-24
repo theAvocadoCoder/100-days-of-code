@@ -421,3 +421,13 @@
 1. I got to do some reading about Dates so I could figure out how to implement the 30 day username limitation.
 2. I remember when I started learning to code, a lot of people would say that the only way you get better is by practicing. And even though I believed them then, I don't think I really understood. I can actually see the progress I've made. I can actually *feel* the progress. And this is only because I've been writing code, even when I'm not sure it'll do what I want it to.
 3. I'm learning that the best way to get better at programming is to program. I'm getting more comfortable with writing code that isn't perfect the first time, I'm getting comfortable with sitting with working my way through error messages until I get the result I want.
+
+
+### Day 37: September 24th, Tuesday
+
+**Today's Progress**:
+1. I added the save card functionality to the bingo card
+
+
+**Link(s) to work**:
+1. [Commits for the day](https://github.com/theAvocadoCoder/daily-bingo/commits/main/?since=2024-09-24&until=2024-09-24)
