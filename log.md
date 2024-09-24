@@ -410,3 +410,14 @@
 
 **Thoughts**:
 1. Moving forward, I'll take it much easier during the weekends and strive for only an hour of work to prevent burnout.
+
+
+### Day 36: September 23rd, Monday
+
+**Today's Progress**:
+1. Completed implementing profile editing. Picture can be edited and so can username now. Will probably revisit that username editing functionality later. I set it so the DB doesn't update if the username was modified less than a month ago. Will need to give a warning and set up toasts so the user is aware of why the username isn't changing.
+
+**Thoughts**:
+1. I got to do some reading about Dates so I could figure out how to implement the 30 day username limitation.
+2. I remember when I started learning to code, a lot of people would say that the only way you get better is by practicing. And even though I believed them then, I don't think I really understood. I can actually see the progress I've made. I can actually *feel* the progress. And this is only because I've been writing code, even when I'm not sure it'll do what I want it to.
+3. I'm learning that the best way to get better at programming is to program. I'm getting more comfortable with writing code that isn't perfect the first time, I'm getting comfortable with sitting with working my way through error messages until I get the result I want.
