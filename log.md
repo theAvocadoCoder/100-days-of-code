@@ -431,3 +431,16 @@
 
 **Link(s) to work**:
 1. [Commits for the day](https://github.com/theAvocadoCoder/daily-bingo/commits/main/?since=2024-09-24&until=2024-09-24)
+
+
+### Day 38: September 25th. Wednesday
+
+**Today's Progress**:
+1. Added some features to the bingo card with regards to saving a card
+  - Only save previously unsaved cards,
+  - Update the card when the user marks a cell,
+  - Persist the card state
+2. Display the user's cards on the cards page
+
+**Link(s) to work**:
+1. [Commits for the day](https://github.com/theAvocadoCoder/daily-bingo/commits/main/?since=2024-09-25&until=2024-09-25)
