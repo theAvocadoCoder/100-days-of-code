@@ -444,3 +444,16 @@
 
 **Link(s) to work**:
 1. [Commits for the day](https://github.com/theAvocadoCoder/daily-bingo/commits/main/?since=2024-09-25&until=2024-09-25)
+
+
+### Day 39: September 26th, Thursday
+
+**Today's Progress**:
+1. Added a feature to allow users name cards when they save them
+2. Made the cards on the cards page clickable and handled opening a card. I used a currentCard localStorage item to track the currently opened card (this applies for all cards except the dailyBingo card)
+3. Read up on how web sockets work, tried to find a way to integrate websockets into my severless app and came across [this article](https://dev.to/neagle/serverless-websockets-with-ably-1ip5). Will definitely be trying out Ably. I've been browsing the docs and it seems like the perfect solution for my case.
+
+**Link(s) to work**:
+1. [Commit for naming cards](https://github.com/theAvocadoCoder/daily-bingo/commit/912dd95bd46774017d43365b9d64e0d973f87d57)
+2. [Commit for making cards clickable](https://github.com/theAvocadoCoder/daily-bingo/commit/dee5abef1576cff0157cf704d8586f62ca655a11)
+3. [Commit for handling non-dailyBingo cards](https://github.com/theAvocadoCoder/daily-bingo/commit/e4c74174e206722071035a0facb93a2fbe7a5fcc)
