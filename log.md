@@ -457,3 +457,13 @@
 1. [Commit for naming cards](https://github.com/theAvocadoCoder/daily-bingo/commit/912dd95bd46774017d43365b9d64e0d973f87d57)
 2. [Commit for making cards clickable](https://github.com/theAvocadoCoder/daily-bingo/commit/dee5abef1576cff0157cf704d8586f62ca655a11)
 3. [Commit for handling non-dailyBingo cards](https://github.com/theAvocadoCoder/daily-bingo/commit/e4c74174e206722071035a0facb93a2fbe7a5fcc)
+
+
+### Day 40: September 27th, Friday
+
+**Today's Progress**:
+1. Added a feature to allow users change the name of saved cards
+2. Browsed the Ably docs some more. Will begin working on the groups page next week
+
+**Link(s) to work**:
+1. [Commit for editing saved cards](https://github.com/theAvocadoCoder/daily-bingo/commit/dc9c914241c56c2878cad8896853889113ab51ba)
