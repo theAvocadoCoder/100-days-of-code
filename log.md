@@ -467,3 +467,15 @@
 
 **Link(s) to work**:
 1. [Commit for editing saved cards](https://github.com/theAvocadoCoder/daily-bingo/commit/dc9c914241c56c2878cad8896853889113ab51ba)
+
+
+### Day 41: September 26th, Saturday
+
+**Today's Progress**:
+1. Fixed a bug on the mentorHub partner-ui that was preventing the docker container from being built and pushed when I merged with main. (Still waiting for a review on this)
+2. Added a delete card feature to the saved bingo cards
+3. Improved the Ui of the confirm dialog element by clearly distinguishing the primary action button
+
+**Link(s) to work**:
+1. [Commit for delete card feature](https://github.com/theAvocadoCoder/daily-bingo/commit/f19b890697d19a1890bf6c150bee95273cc09d9e)
+2. [Commit for improving UI](https://github.com/theAvocadoCoder/daily-bingo/commit/50a6ff91f3969b86279c648c7f7d333b734a0a4b)
