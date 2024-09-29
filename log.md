@@ -469,7 +469,7 @@
 1. [Commit for editing saved cards](https://github.com/theAvocadoCoder/daily-bingo/commit/dc9c914241c56c2878cad8896853889113ab51ba)
 
 
-### Day 41: September 26th, Saturday
+### Day 41: September 28th, Saturday
 
 **Today's Progress**:
 1. Fixed a bug on the mentorHub partner-ui that was preventing the docker container from being built and pushed when I merged with main. (Still waiting for a review on this)
@@ -479,3 +479,16 @@
 **Link(s) to work**:
 1. [Commit for delete card feature](https://github.com/theAvocadoCoder/daily-bingo/commit/f19b890697d19a1890bf6c150bee95273cc09d9e)
 2. [Commit for improving UI](https://github.com/theAvocadoCoder/daily-bingo/commit/50a6ff91f3969b86279c648c7f7d333b734a0a4b)
+
+
+### Day 42: September 29th, Sunday
+
+**Today's Progress**:
+1. Added a back button to the saved card view, finally implemented toast messages, added a new card button and created the new card route.
+2. Made the profile menu dropdown slightly more accessible by making it tabbable. I had to sacrifice the UX a bit. The menu no longer disappears when it blurs. The workaround I put for this is that the escape key dismisses it.
+
+
+**Thoughts**:
+1. As I write this log, I realize I might be able to make the menu dropdown tabbable without having to sacrifice the UX by moving the menu into the button element. I'll see if this works tomorrow.
+
+**Link(s) to work**:
