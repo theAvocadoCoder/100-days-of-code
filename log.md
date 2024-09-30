@@ -492,3 +492,23 @@
 1. As I write this log, I realize I might be able to make the menu dropdown tabbable without having to sacrifice the UX by moving the menu into the button element. I'll see if this works tomorrow.
 
 **Link(s) to work**:
+1. [Back button](https://github.com/theAvocadoCoder/daily-bingo/commit/ed326153ea5507df73d5d3a0d48eac4839f1f712), [Toast implementation](https://github.com/theAvocadoCoder/daily-bingo/commit/49f0934037b67d9cf6b1a7051c1d0d1f9598d389), [New Card button and route](https://github.com/theAvocadoCoder/daily-bingo/commit/62a8130ac02105b38555c6592019dfeac2e31c1a)
+2. [Profile Menu Accessibility](https://github.com/theAvocadoCoder/daily-bingo/commit/333b6b69196b548b2f44092e16008926862e1e2e)
+
+
+### Day 43: September 30th, Monday
+
+**Today's Progress**:
+1. Fixed the accessibility thing with the profile menu, fixed some bugs, did some refactoring here and there
+2. Added a search feature to the cards list page
+3. Added the create card feature
+
+**Thoughts**:
+1. So I didn't have to move the dropdown. I just needed to use separate event listeners for when the button is clicked and when the menu loses focus. Now it is tabbable, dismissable by clicking outside the menu (or on a menu item) or pressing the escape key.
+2. I'm pleased with the search feature. For the new card feature, when the card is created, the user gets directed to the cards page but with their new card highlighted. I did this because I want the back button on the view card page to take the user to the cards list page rather than the create new card page.
+
+**Link(s) to work**:
+1. [toast bug](https://github.com/theAvocadoCoder/daily-bingo/commit/e91a6405cc0600579fb3aa52e99f138681e630fa), [cloudinary bug](https://github.com/theAvocadoCoder/daily-bingo/commit/9b826bddc8b7c9696a93a7914467cf8dfbe0a829), [delete button ui bug](https://github.com/theAvocadoCoder/daily-bingo/commit/129ad2c836de74e0ea3b44357789da8c7cdb8465), [bingo card prop refactor](https://github.com/theAvocadoCoder/daily-bingo/commit/c1d04df66a664bcb722f69335965aa6e36083bf7), [cloudinary bug again, cause I didn't do it right the first time](https://github.com/theAvocadoCoder/daily-bingo/commit/3726803224ced066300e0ee6bc1483b35923d89a), [buildCellArray refactor](https://github.com/theAvocadoCoder/daily-bingo/commit/fea863eaefb00600a1e3f0c73e202f824f6f7cdc)
+2. [Profile Menu Accessibility Final Fix](https://github.com/theAvocadoCoder/daily-bingo/commit/2391de0ffec4f0a214057de0d998d08329ad6b25)
+3. [Search in cards list page](https://github.com/theAvocadoCoder/daily-bingo/commit/5bfd237f22cd52afb65292bb41f46682bd86ef21)
+4. [Create card feature](https://github.com/theAvocadoCoder/daily-bingo/commit/b18cc5b9ba30eaa4a0944c6cf9338010a3021072) (and [directing users to cards list after](https://github.com/theAvocadoCoder/daily-bingo/commit/6748cfa86169222148b2db3a53ed996cf841e36f))
