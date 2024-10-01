@@ -512,3 +512,13 @@
 2. [Profile Menu Accessibility Final Fix](https://github.com/theAvocadoCoder/daily-bingo/commit/2391de0ffec4f0a214057de0d998d08329ad6b25)
 3. [Search in cards list page](https://github.com/theAvocadoCoder/daily-bingo/commit/5bfd237f22cd52afb65292bb41f46682bd86ef21)
 4. [Create card feature](https://github.com/theAvocadoCoder/daily-bingo/commit/b18cc5b9ba30eaa4a0944c6cf9338010a3021072) (and [directing users to cards list after](https://github.com/theAvocadoCoder/daily-bingo/commit/6748cfa86169222148b2db3a53ed996cf841e36f))
+
+
+### Day 44: October 1st, Tuesday
+
+**Progress for the day**:
+1. Solved some HackRank problems in the 3-month prep kit
+2. Started setting up Ably for realtime messaging on Daily Bingo.
+
+**Link(s) to work**:
+1. [Commits for the day](https://github.com/theAvocadoCoder/daily-bingo/commits/main/?since=2024-10-01&until=2024-10-01)
