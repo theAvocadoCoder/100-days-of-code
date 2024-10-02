@@ -516,9 +516,16 @@
 
 ### Day 44: October 1st, Tuesday
 
-**Progress for the day**:
+**Today's Progress**:
 1. Solved some HackRank problems in the 3-month prep kit
 2. Started setting up Ably for realtime messaging on Daily Bingo.
 
 **Link(s) to work**:
 1. [Commits for the day](https://github.com/theAvocadoCoder/daily-bingo/commits/main/?since=2024-10-01&until=2024-10-01)
+
+
+### Day 45: October 2nd, Wednesday
+
+**Today's Progress**:
+1. Solved some HackerRank problems in the 3-month prep kit
+2. Learned about Typed arrays and generator functions
