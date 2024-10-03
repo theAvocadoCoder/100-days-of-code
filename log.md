@@ -529,3 +529,15 @@
 **Today's Progress**:
 1. Solved some HackerRank problems in the 3-month prep kit
 2. Learned about Typed arrays and generator functions
+
+
+### Day 46: October 3rd, Thursday
+
+**Today's Progress**:
+1. Completed CS50x week 0 problem set after 1 year of avoiding it.
+
+**Thoughts**:
+1. I started the CS50x course in August 2023, and for some reason, scratch just always seemed so alien. I couldn't figure it out. I had basically given up, completed all the other weeks but this one simple thing held me back. But I think this challenge has taught me perseverance. Today, I body-doubled with a good friend of mine and I actually got it done. It's a small victory but one that I'm very happy about.
+
+**Link(s) to work**:
+1. [Scratch project](https://scratch.mit.edu/projects/918778615)
