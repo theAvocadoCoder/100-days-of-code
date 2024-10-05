@@ -549,3 +549,12 @@
 1. Did a lot of refactoring with my Mongo IO class. Some methods were doing too much so I tried to make them observe single responsibility.
 2. Changed the data model for the user so the user document doesn't keep card data other than the card_id which is immutable.
 3. Implemented a soft-delete feature for the cards. Added a reference counter field to the card model. Will impelment the periodic cleanup later.
+
+**Link(s) to work**:
+1. [Commits for the day](https://github.com/theAvocadoCoder/daily-bingo/commits/main/?since=2024-10-05&until=2024-10-05)
+
+
+### Day 48: October 5th, Saturday
+
+**Today's Progress**:
+1. Solved week 2 of HackerRanck's 3 month prep kit.
