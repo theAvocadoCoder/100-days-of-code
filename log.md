@@ -541,3 +541,11 @@
 
 **Link(s) to work**:
 1. [Scratch project](https://scratch.mit.edu/projects/918778615)
+
+
+### Day 47: October 4th, Friday
+
+**Today's Progress**:
+1. Did a lot of refactoring with my Mongo IO class. Some methods were doing too much so I tried to make them observe single responsibility.
+2. Changed the data model for the user so the user document doesn't keep card data other than the card_id which is immutable.
+3. Implemented a soft-delete feature for the cards. Added a reference counter field to the card model. Will impelment the periodic cleanup later.
