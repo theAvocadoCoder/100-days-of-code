@@ -558,3 +558,14 @@
 
 **Today's Progress**:
 1. Solved week 2 of HackerRanck's 3 month prep kit.
+
+
+### Day 49: October 6th, Sunday
+
+**Today's Progress**:
+1. Improved the UX on the new card page of the Daily Bingo app.
+2. Started working on the groups pages.
+
+**Link(s) to work**:
+1. [Card UX improvement](https://github.com/theAvocadoCoder/daily-bingo/commit/1240ea97f3c532fa6e9d111fbd6342a13693829a) and [a bug fix](https://github.com/theAvocadoCoder/daily-bingo/commit/52274b2397baf4d629c6624fab7a4e726a2d1c1b).
+2. [Groups list page](https://github.com/theAvocadoCoder/daily-bingo/commit/4a0c5604ae3bda788bbc649afc824551e7ecc057), [new group page](https://github.com/theAvocadoCoder/daily-bingo/commit/b9d5ab2e7eec9e4b52d45b541ec04ff5074597e3), and [a minor UI change](https://github.com/theAvocadoCoder/daily-bingo/commit/2d1413f66a6fe5af3bb5a620d6689f40ab4c6199)
