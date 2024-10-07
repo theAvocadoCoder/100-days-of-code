@@ -569,3 +569,14 @@
 **Link(s) to work**:
 1. [Card UX improvement](https://github.com/theAvocadoCoder/daily-bingo/commit/1240ea97f3c532fa6e9d111fbd6342a13693829a) and [a bug fix](https://github.com/theAvocadoCoder/daily-bingo/commit/52274b2397baf4d629c6624fab7a4e726a2d1c1b).
 2. [Groups list page](https://github.com/theAvocadoCoder/daily-bingo/commit/4a0c5604ae3bda788bbc649afc824551e7ecc057), [new group page](https://github.com/theAvocadoCoder/daily-bingo/commit/b9d5ab2e7eec9e4b52d45b541ec04ff5074597e3), and [a minor UI change](https://github.com/theAvocadoCoder/daily-bingo/commit/2d1413f66a6fe5af3bb5a620d6689f40ab4c6199)
+
+
+### Day 50: October 7th, Monday
+
+**Today's Progress**:
+1. Worked on the groups list page so it's not just a copy of the cards list page.
+2. Started working on the group chat page. Yet to implement realtime messaging, but there's a placeholder feature for sending messages.
+
+**Link(s) to work**:
+1. [Group list modifications](https://github.com/theAvocadoCoder/daily-bingo/commit/f14dcd8a9e10180690ad5204addd8647fe94e99b)
+2. [Chat page](https://github.com/theAvocadoCoder/daily-bingo/commit/62c01aefe092eb6816e10a913d2d9f83a56920db)
