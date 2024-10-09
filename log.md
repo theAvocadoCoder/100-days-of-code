@@ -589,3 +589,13 @@
 
 **Link(s) to work**:
 1. First tried [moving the Ably config to a Nuxt plugin](https://github.com/theAvocadoCoder/daily-bingo/commit/710493ecb2974ba55ed60f828ba945fbaf920956) then realized to do that, I'd need to [reconfigure the setup to use Auth Tokens](https://github.com/theAvocadoCoder/daily-bingo/commit/900fa1fee1e446360e9a2c799e201d476c7798ab). And finally, i was able to [implement pub/sub on the chat page](https://github.com/theAvocadoCoder/daily-bingo/commit/858c7d5c8ef20436f88267e3f2c6b519620974fd).
+
+
+### Day 52: October 9th, Wednesday
+
+**Today's Progress**:
+1. Added the Ably integration to invoke my serverless function when message events are published.
+2. Wrote the api route to be invoked and messages now persist.
+
+**Link(s) to work**:
+1. [Commit for the api route](https://github.com/theAvocadoCoder/daily-bingo/commit/ed0e81cda97676272b180b9e3d4121e70a60d717) and [when I finally got the payload structure right](https://github.com/theAvocadoCoder/daily-bingo/commit/0dcb3950a80a1869c7a656841f7ef401e122fa74)
