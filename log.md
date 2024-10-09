@@ -580,3 +580,12 @@
 **Link(s) to work**:
 1. [Group list modifications](https://github.com/theAvocadoCoder/daily-bingo/commit/f14dcd8a9e10180690ad5204addd8647fe94e99b)
 2. [Chat page](https://github.com/theAvocadoCoder/daily-bingo/commit/62c01aefe092eb6816e10a913d2d9f83a56920db)
+
+
+### Day 51: October 8th, Tuesday
+
+**Today's Progress**:
+1. Finally got around to implementing realtime messaging! Now I just need to figure out how to persist the messages to my DB.
+
+**Link(s) to work**:
+1. First tried [moving the Ably config to a Nuxt plugin](https://github.com/theAvocadoCoder/daily-bingo/commit/710493ecb2974ba55ed60f828ba945fbaf920956) then realized to do that, I'd need to [reconfigure the setup to use Auth Tokens](https://github.com/theAvocadoCoder/daily-bingo/commit/900fa1fee1e446360e9a2c799e201d476c7798ab). And finally, i was able to [implement pub/sub on the chat page](https://github.com/theAvocadoCoder/daily-bingo/commit/858c7d5c8ef20436f88267e3f2c6b519620974fd).
