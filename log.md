@@ -599,3 +599,12 @@
 
 **Link(s) to work**:
 1. [Commit for the api route](https://github.com/theAvocadoCoder/daily-bingo/commit/ed0e81cda97676272b180b9e3d4121e70a60d717) and [when I finally got the payload structure right](https://github.com/theAvocadoCoder/daily-bingo/commit/0dcb3950a80a1869c7a656841f7ef401e122fa74)
+
+
+### Day 53: October 10th, Thursday
+
+**Today's Progress**:
+1. On the bingo app: Fixed some bugs, set a default group image during creation, and nested the group details page in the group chat page.
+
+**Link(s) to work**:
+1. [Bugs](https://github.com/theAvocadoCoder/daily-bingo/commit/06a4cb9522d2d2a4a242e28ca88e2fbafe276c20), [default group image](https://github.com/theAvocadoCoder/daily-bingo/commit/3ae5f3f6b13263a178efc0d16c90c08d03e79e8d), and [the page nesting](https://github.com/theAvocadoCoder/daily-bingo/commit/fa7e9313db93dee500ed960fc4605b0d5bd88f9f)
