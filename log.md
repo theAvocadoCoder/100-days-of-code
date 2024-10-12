@@ -608,3 +608,9 @@
 
 **Link(s) to work**:
 1. [Bugs](https://github.com/theAvocadoCoder/daily-bingo/commit/06a4cb9522d2d2a4a242e28ca88e2fbafe276c20), [default group image](https://github.com/theAvocadoCoder/daily-bingo/commit/3ae5f3f6b13263a178efc0d16c90c08d03e79e8d), and [the page nesting](https://github.com/theAvocadoCoder/daily-bingo/commit/fa7e9313db93dee500ed960fc4605b0d5bd88f9f)
+
+
+### Day 54: October 11th, Friday
+
+**Today'sProgress**:
+1. Learned about throttling and debouncing and memoization, implemented util functions in avocadohelpers.
