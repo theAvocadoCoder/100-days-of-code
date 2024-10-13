@@ -612,5 +612,11 @@
 
 ### Day 54: October 11th, Friday
 
-**Today'sProgress**:
+**Today's Progress**:
 1. Learned about throttling and debouncing and memoization, implemented util functions in avocadohelpers.
+
+
+### Day 55: October 12th, Saturday
+
+**Today's Progress**:
+1. Worked some more on the memoization function, worked on a small webpage to get geolocation info from postcodes.io
