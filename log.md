@@ -620,3 +620,12 @@
 
 **Today's Progress**:
 1. Worked some more on the memoization function, worked on a small webpage to get geolocation info from postcodes.io
+
+
+### Day 56: October 13th, Sunday
+
+**Today's Progress**:
+1. Finished with the geolocation webpage. Honestly, it felt nice working with plain HTML and JS after so lomg. I think I'll do this more often during the weekends.
+
+**Link(s) to works**:
+1. [Repo for the webpage](https://github.com/theAvocadoCoder/uk-postcodes/) and the [live site](https://github.com/theAvocadoCoder/uk-postcodes/)
