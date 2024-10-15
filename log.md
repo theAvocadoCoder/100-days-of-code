@@ -629,3 +629,9 @@
 
 **Link(s) to works**:
 1. [Repo for the webpage](https://github.com/theAvocadoCoder/uk-postcodes/) and the [live site](https://github.com/theAvocadoCoder/uk-postcodes/)
+
+
+### Day 57: October 14th, Monday
+
+**Today's Progress**:
+1. Brushed up on Unit Testing, started setting up for testing in Daily Bingo and I regret not trying TDD. Testing in nuxt is much more complex than I anticipated 🥲
