@@ -625,7 +625,7 @@
 ### Day 56: October 13th, Sunday
 
 **Today's Progress**:
-1. Finished with the geolocation webpage. Honestly, it felt nice working with plain HTML and JS after so lomg. I think I'll do this more often during the weekends.
+1. Finished with the geolocation webpage. Honestly, it felt nice working with plain HTML and JS after so long. I think I'll do this more often during the weekends.
 
 **Link(s) to works**:
 1. [Repo for the webpage](https://github.com/theAvocadoCoder/uk-postcodes/) and the [live site](https://github.com/theAvocadoCoder/uk-postcodes/)
@@ -635,3 +635,17 @@
 
 **Today's Progress**:
 1. Brushed up on Unit Testing, started setting up for testing in Daily Bingo and I regret not trying TDD. Testing in nuxt is much more complex than I anticipated 🥲
+
+
+### Day 58: October 15th, Tuesday
+
+**Today's Progress**:
+1. Finished working on the memoization function for avocadohelpers. Got to work with Symbols which was fun (I've been looking forward to getting to use them in a project since I first learned about them). I used it to make unique keys in a map that I use to cache function calls.
+2. Started writing tests for the helper functions I've done so far. I'll hold off on implementing any new helpers till I've written tests for the available ones. I want to try test driven development.
+
+**Thoughts**:
+1. I've gained some confidence over the course of this challenge and that is very encouraging. I often worry that I'm doing a lot of things but not making any real progress but I can definitely see some improvement and that strengthens me to keep going.
+
+**Link(s) to work**:
+1. [Commits for the memoization function](https://github.com/theAvocadoCoder/avocadohelpers/commits/utils?since=2024-10-16&until=2024-10-16)
+2. [Setup](https://github.com/theAvocadoCoder/avocadohelpers/commit/052da70d91046c0a5f6ba5f4b3cba1bb48c8a7ea) and [first tests](https://github.com/theAvocadoCoder/avocadohelpers/commit/2c6f9c14c89cff30e62731e0b7a2d79c344bb805) commits for testing
