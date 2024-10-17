@@ -649,3 +649,12 @@
 **Link(s) to work**:
 1. [Commits for the memoization function](https://github.com/theAvocadoCoder/avocadohelpers/commits/utils?since=2024-10-16&until=2024-10-16)
 2. [Setup](https://github.com/theAvocadoCoder/avocadohelpers/commit/052da70d91046c0a5f6ba5f4b3cba1bb48c8a7ea) and [first tests](https://github.com/theAvocadoCoder/avocadohelpers/commit/2c6f9c14c89cff30e62731e0b7a2d79c344bb805) commits for testing
+
+
+### Day 59: October 16th, Wednesday
+
+**Today's Progress**
+1. Wrote test suites for the DOM functions: style, addClass, and removeClass. Modified code to pass failing tests.
+
+**Link(s) to work**:
+1. [Test suites](https://github.com/theAvocadoCoder/avocadohelpers/commit/5d93c91e41b38bdfb6f84bad93030399392ab865) and [their modified implementations](https://github.com/theAvocadoCoder/avocadohelpers/commit/f0c7a2b2ac522ef2135c733d636c7cf4cacd0ec7)
