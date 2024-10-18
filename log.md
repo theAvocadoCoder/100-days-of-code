@@ -658,3 +658,12 @@
 
 **Link(s) to work**:
 1. [Test suites](https://github.com/theAvocadoCoder/avocadohelpers/commit/5d93c91e41b38bdfb6f84bad93030399392ab865) and [their modified implementations](https://github.com/theAvocadoCoder/avocadohelpers/commit/f0c7a2b2ac522ef2135c733d636c7cf4cacd0ec7)
+
+
+### Day 60: October 17th, Thursday
+
+**Today's Progress**:
+1. Started working on an admin dashboard for a developer assessment at a job I applied for. Started marking up and styling components. Got to work with custom components, which is always fun. Looking forward to the challenge of making an SPA without a framework.
+
+**Link(s) to work**:
+1. [The repo](https://github.com/theAvocadoCoder/alphatwelve-dashboard)
