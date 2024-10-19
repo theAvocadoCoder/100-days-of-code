@@ -667,3 +667,13 @@
 
 **Link(s) to work**:
 1. [The repo](https://github.com/theAvocadoCoder/alphatwelve-dashboard)
+
+
+### Day 61: October 18th, Friday
+
+**Today's Progress**:
+1. I practiced writing CLI scripts with typescript. I want to work on a project that's a CLI tool but I don't have any ideas on that front.
+2. Did some more work on the admin dashboard. Finished the component I was working on yesterday, started on the navigation.
+
+**Thoughts**:
+1. It's unreal how much easier this assessment feels than when I had to do a similar assessment last year. I distinctly remember things like CSS variables and darkmode toggles being too complex for me. I'm very grateful for this growth. It's so easy to focus on all the things I don't know or can't do. But here I am, doing better than I did last year. I'm encouraged.
