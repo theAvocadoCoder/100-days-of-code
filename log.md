@@ -677,3 +677,9 @@
 
 **Thoughts**:
 1. It's unreal how much easier this assessment feels than when I had to do a similar assessment last year. I distinctly remember things like CSS variables and darkmode toggles being too complex for me. I'm very grateful for this growth. It's so easy to focus on all the things I don't know or can't do. But here I am, doing better than I did last year. I'm encouraged.
+
+
+### Day 62: October 19th, Saturday
+
+**Today's Progress**:
+1. Completed the mobile view for the navigation. This was a little more challenging than I expected, but I'm pleased with the result. I also added transitions; the switch to dark mode was rather jarring.
