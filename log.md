@@ -683,3 +683,17 @@
 
 **Today's Progress**:
 1. Completed the mobile view for the navigation. This was a little more challenging than I expected, but I'm pleased with the result. I also added transitions; the switch to dark mode was rather jarring.
+
+
+### Day 63: October 20th, Sunday
+
+**Today's Progress**:
+1. Made the stat cards mobile responsive, made a layout component and moved the nav and placeholder elements there, made an in-progress component for pages beyond the scope of the assessment, made the carousel slider.
+
+**Thoughts**:
+1. Working with custom components is very interesting. I'm not a big fan of the shadow root but maybe I just haven't seen any good use cases for it.
+2. I got to try out a css trick I saw on LinkedIn a few months ago. It overlays elemnts without needing to use absolute positioning by setting the parent component's display to grid, and giving all the grid items the same grid area. I used that for the carousel slider. Pretty neat stuff.
+
+**Link(s) to work**:
+1. [The live site](https://alphatwelve-dashboard.netlify.app), which is still in progress, obviously.
+2. [The repo](https://github.com/theAvocadoCoder/alphatwelve-dashboard)
