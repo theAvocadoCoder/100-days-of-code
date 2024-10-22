@@ -697,3 +697,10 @@
 **Link(s) to work**:
 1. [The live site](https://alphatwelve-dashboard.netlify.app), which is still in progress, obviously.
 2. [The repo](https://github.com/theAvocadoCoder/alphatwelve-dashboard)
+
+
+### Day 64: October 21st, Monday
+
+**Today's Progress**:
+1. Marked up and styled the events history table and the popup modal for event details.
+2. Got started setting up chart.js
