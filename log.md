@@ -704,3 +704,10 @@
 **Today's Progress**:
 1. Marked up and styled the events history table and the popup modal for event details.
 2. Got started setting up chart.js
+
+### Day 65: October 22nd, Tuesday
+
+**Today's Progress**:
+1. I finished the chart component and added hover animations to the stat cards.
+2. I added pagination to the events history table. Learned how to make a custom select element that is semantically similar to a native one, but far more customizable
+
