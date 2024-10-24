@@ -711,3 +711,12 @@
 1. I finished the chart component and added hover animations to the stat cards.
 2. I added pagination to the events history table. Learned how to make a custom select element that is semantically similar to a native one, but far more customizable
 
+
+### Day 66: October 23rd, Wednesday
+
+**Today's Progress**:
+1. I finished up the events history table with search, filter, and sort functionality. Also made the download button functional with a csv of the current table.
+
+**Links to work**:
+1. [The repo](https://github.com/theAvocadoCoder/alphatwelve-dashboard)
+2. [The live site](https://alphatwelve-dashboard.netlify.app)
