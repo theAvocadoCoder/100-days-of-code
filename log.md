@@ -720,3 +720,9 @@
 **Links to work**:
 1. [The repo](https://github.com/theAvocadoCoder/alphatwelve-dashboard)
 2. [The live site](https://alphatwelve-dashboard.netlify.app)
+
+
+### Day 67: October 24th, Thursday
+
+**Today's Progress**:
+1. Continued writing tests for the DOM helper functions in the avocadocoderhelpers package.
