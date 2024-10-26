@@ -726,3 +726,9 @@
 
 **Today's Progress**:
 1. Continued writing tests for the DOM helper functions in the avocadocoderhelpers package.
+
+### Day 68: October 25th, Friday
+
+**Today's Progress**:
+1. Finished writing tests for the DOM helper functions and updated the package version on npm
+2. Fixed a bug on the alphatwelve dashboard
