@@ -737,5 +737,11 @@
 
 ### Day 69: October 26th, Saturday
 
-**Today'sProgress**:
+**Today's Progress**:
 1. Learned to use Kaplay to make games and started working on a memory game
+
+
+### Day 70: October 27th, Sunday
+
+**Today's Progress**:
+1. Wrote failing tests for the string convertCase helper function in avocadohelpers
