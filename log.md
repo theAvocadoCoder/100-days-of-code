@@ -745,3 +745,14 @@
 
 **Today's Progress**:
 1. Wrote failing tests for the string convertCase helper function in avocadohelpers
+
+
+### Day 71: October 28th, Monday
+
+**Today's Progress**:
+1. Finished writing tests for the string functions in avocadohelpers, modified code to pass.
+2. Started reorganizing the daily bingo codebase.
+
+**Thoughts**:
+1. I got back to the daily bingo project after a 2 week break and it pains me to realize my codebase is rather unwieldy. It's definitely approaching spaghetti code territory (If it isn't already there). So I decided I need to clean it up before proceeding. I drew up a plan for breaking my components into smaller pieces, using composables and helper functions where necessary, and actually writing tests.
+2. It is very daunting. A part of me wants to pretend it's fine and just finish the project like that, but I know an exercise like this is good experience. Plus, it would be very bad form to leave my codebase a mess when the essence of this challenge is to be a better developer.
