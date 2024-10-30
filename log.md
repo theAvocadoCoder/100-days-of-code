@@ -756,3 +756,12 @@
 **Thoughts**:
 1. I got back to the daily bingo project after a 2 week break and it pains me to realize my codebase is rather unwieldy. It's definitely approaching spaghetti code territory (If it isn't already there). So I decided I need to clean it up before proceeding. I drew up a plan for breaking my components into smaller pieces, using composables and helper functions where necessary, and actually writing tests.
 2. It is very daunting. A part of me wants to pretend it's fine and just finish the project like that, but I know an exercise like this is good experience. Plus, it would be very bad form to leave my codebase a mess when the essence of this challenge is to be a better developer.
+
+
+### Day 72: October 29th, Tuesday
+
+**Today's Progress**:
+1. Got started moving the business logic for the bingo card into composables
+
+**Thoughts**:
+1. I read a quote from Linus Torvalds today that said a good programmer is one who prioritizes data structure over algorithms and it has me thinking about how I've gone about the daily bingo project. I find myself having to come up with a lot of workarounds. Which I take as a bad code smell that something isn't implemented correctly. I'll take some time to think this through and identify what needs to be revised in the project.
