@@ -765,3 +765,14 @@
 
 **Thoughts**:
 1. I read a quote from Linus Torvalds today that said a good programmer is one who prioritizes data structure over algorithms and it has me thinking about how I've gone about the daily bingo project. I find myself having to come up with a lot of workarounds. Which I take as a bad code smell that something isn't implemented correctly. I'll take some time to think this through and identify what needs to be revised in the project.
+
+
+### Day 73: October 30th, Wednesday
+
+**Today's Progress**:
+1. Split Bingo component logic into composables; cut down the size from >300 lines to ~90 lines
+2. Fixed a bug that saved daily cards weirdly
+3. Added a feature to check when the old one is >= 24hours old (will implement a modal so the user has the option to get new card or continue with old one)
+
+**Link(s)**:
+1. [Daily Bingo repo](https://github.com/theAvocadoCoder/daily-bingo/commits/main/?since=2024-10-31&until=2024-10-31)
