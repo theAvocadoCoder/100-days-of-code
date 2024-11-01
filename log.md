@@ -774,5 +774,16 @@
 2. Fixed a bug that saved daily cards weirdly
 3. Added a feature to check when the old one is >= 24hours old (will implement a modal so the user has the option to get new card or continue with old one)
 
-**Link(s)**:
+**Link(s) to work**:
 1. [Daily Bingo repo](https://github.com/theAvocadoCoder/daily-bingo/commits/main/?since=2024-10-31&until=2024-10-31)
+
+
+### Day 74: October 31st, Thursday
+
+**Today's Progress**:
+1. Implemented a clickable toast message instead of a modal so user can deecide when to update their daily card.
+2. Made local storage plugin emit a custom event so components reliant on local storage changes can listen and update accordingly
+3. Got started breaking the chat page into smaller modules
+
+**Link(s) to work**:
+1. [Commits today](https://github.com/theAvocadoCoder/daily-bingo/commits/main/?since=2024-11-01&until=2024-11-01)
