@@ -787,3 +787,10 @@
 
 **Link(s) to work**:
 1. [Commits today](https://github.com/theAvocadoCoder/daily-bingo/commits/main/?since=2024-11-01&until=2024-11-01)
+
+
+### Day 75: November 1st, Friday
+
+**Today's Progress**
+1. Read up on how to use IndexedDB, still not sure that I will be using it in DailyBingo app. I can't decide if it makes sense to
+2. Fixed a bug that was preventing the session user details from being stored locally when the page loads
