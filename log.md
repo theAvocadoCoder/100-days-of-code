@@ -800,3 +800,10 @@
 
 **Today's Progress**
 1. Worked a bit on my portfolio page, started adding new content
+
+
+
+### Day 77: November 3rd, Sunday
+
+**Today's Progress**
+1. Started working on the Daily Bingo group details subroute
