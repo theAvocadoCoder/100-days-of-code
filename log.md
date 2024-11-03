@@ -794,3 +794,9 @@
 **Today's Progress**
 1. Read up on how to use IndexedDB, still not sure that I will be using it in DailyBingo app. I can't decide if it makes sense to
 2. Fixed a bug that was preventing the session user details from being stored locally when the page loads
+
+
+### Day 76: November 2nd, Saturday
+
+**Today's Progress**
+1. Worked a bit on my portfolio page, started adding new content
