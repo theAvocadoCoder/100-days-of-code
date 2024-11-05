@@ -807,3 +807,10 @@
 
 **Today's Progress**
 1. Started working on the Daily Bingo group details subroute
+
+
+### Day 78: November 4th, Monday
+
+**Today's Progress**
+1. Finally got the group details subroute to look the way I want
+2. Unfortunately, as I was trying to move some logic into my pinia store, I broke something and the groupData isn't reactive anymore. Will have to figure out how to fix that tomorrow
