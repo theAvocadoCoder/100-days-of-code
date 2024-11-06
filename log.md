@@ -814,3 +814,10 @@
 **Today's Progress**
 1. Finally got the group details subroute to look the way I want
 2. Unfortunately, as I was trying to move some logic into my pinia store, I broke something and the groupData isn't reactive anymore. Will have to figure out how to fix that tomorrow
+
+
+### Day 79: November 5th, Tuesday
+
+**Today's Progress**
+1. Figured out why it seemed like the groupData lost reactivity; I wasn't awaiting the function that fetched it. Fixed that.
+2. Got the group details panel working like it should. Next, I want to refactor like I did for the Bingo component so the code is more modular.
