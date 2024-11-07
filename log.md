@@ -821,3 +821,9 @@
 **Today's Progress**
 1. Figured out why it seemed like the groupData lost reactivity; I wasn't awaiting the function that fetched it. Fixed that.
 2. Got the group details panel working like it should. Next, I want to refactor like I did for the Bingo component so the code is more modular.
+
+
+### Day 80: November 6th, Wednesday
+
+**Today's Progress**
+1. Got started moving the chat busines logic into composables
