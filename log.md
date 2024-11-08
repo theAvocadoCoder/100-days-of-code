@@ -834,3 +834,7 @@
 1. Set limits for refetching the session and updating the local user data
 2. Started reading the Redis docs, haven't figured out yet if my daily bingo app is a good use case for it. I suspect it is, though
 3. Learned how to use lightboxes in Wix. Figured out that something I though would need a custom element just needed a button and a lightbox.
+
+**Thoughts**:
+1. I had a bit of a terrible day on Thursday and I wasn't able to get even an hour of coding done. Felt like I had failed for not being able to do the 100 days at a stretch. But I'm reminded that consistency also looks like picking yourself up after a set back and surging forward. 
+2. Being unable to clock in on Thursday, does not invalidate the other 80 days that I was able to clock in and clocking in today and the day after ad centum, shows that I've gotten back up. I'm hoping this will encourage me on the days when it's too easy to consider one setback a failure.
