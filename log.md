@@ -827,3 +827,10 @@
 
 **Today's Progress**
 1. Got started moving the chat busines logic into composables
+
+### Day 81: NOvember 8th, Friday
+
+**Today's Progress**
+1. Set limits for refetching the session and updating the local user data
+2. Started reading the Redis docs, haven't figured out yet if my daily bingo app is a good use case for it. I suspect it is, though
+3. Learned how to use lightboxes in Wix. Figured out that something I though would need a custom element just needed a button and a lightbox.
