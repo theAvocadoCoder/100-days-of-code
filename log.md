@@ -838,3 +838,10 @@
 **Thoughts**:
 1. I had a bit of a terrible day on Thursday and I wasn't able to get even an hour of coding done. Felt like I had failed for not being able to do the 100 days at a stretch. But I'm reminded that consistency also looks like picking yourself up after a set back and surging forward. 
 2. Being unable to clock in on Thursday, does not invalidate the other 80 days that I was able to clock in and clocking in today and the day after ad centum, shows that I've gotten back up. I'm hoping this will encourage me on the days when it's too easy to consider one setback a failure.
+
+
+### Day 82: November 9th, Saturday
+
+**Today's Progress**:
+1. Solved some LeetCode problems in the 30 days of JavaScript study plan
+2. Read up on Wix's APIs
