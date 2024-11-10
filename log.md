@@ -845,3 +845,9 @@
 **Today's Progress**:
 1. Solved some LeetCode problems in the 30 days of JavaScript study plan
 2. Read up on Wix's APIs
+
+
+### Day 83: November 10th, Sunday
+
+**Today's Progress**:
+1. Solved up to problem 15 in the 30 days of JavaScript study plan
