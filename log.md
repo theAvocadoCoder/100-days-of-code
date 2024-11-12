@@ -858,3 +858,8 @@
 **Today's Progress**:
 1. MentorHub: Fixed the bug in Partner-ui causing build and deploy action to fail; built and tested the container; started fleshing out the routes
 2. Solved more LeetCode problems in the 30 days of JavaScript study plan
+
+### Day 85: November 12th, Tuesday
+
+**Today's Progress**:
+1. Worked on the mentorhub parner-ui partners route
