@@ -851,3 +851,10 @@
 
 **Today's Progress**:
 1. Solved up to problem 15 in the 30 days of JavaScript study plan
+
+
+### Day 84: November 11th, Monday
+
+**Today's Progress**:
+1. MentorHub: Fixed the bug in Partner-ui causing build and deploy action to fail; built and tested the container; started fleshing out the routes
+2. Solved more LeetCode problems in the 30 days of JavaScript study plan
