@@ -863,3 +863,10 @@
 
 **Today's Progress**:
 1. Worked on the mentorhub parner-ui partners route
+
+
+### Day 86: November 13th, Wednesday
+
+**Today's Progress**:
+1. Finished building the mentorhub partner-ui partners route
+2. Starting working on the edit partner route; currently stuck on implementing type ahead in the addContact form
