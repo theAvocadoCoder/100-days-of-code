@@ -870,3 +870,9 @@
 **Today's Progress**:
 1. Finished building the mentorhub partner-ui partners route
 2. Starting working on the edit partner route; currently stuck on implementing type ahead in the addContact form
+
+
+### Day 87: November 14th, Thursday
+
+**Today's Progress**:
+1. Had a really busy day today and could only squeeze in a few LeetCode problems. Worked with Promises which I, admittedly, know next to nothing about. I will be doing further reading on this. I like that the problems make me consider edge cases I normally wouldn't think about and they also prompt me to read up on topics I'm unfamiliar with.
