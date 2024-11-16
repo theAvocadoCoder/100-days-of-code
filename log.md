@@ -876,3 +876,9 @@
 
 **Today's Progress**:
 1. Had a really busy day today and could only squeeze in a few LeetCode problems. Worked with Promises which I, admittedly, know next to nothing about. I will be doing further reading on this. I like that the problems make me consider edge cases I normally wouldn't think about and they also prompt me to read up on topics I'm unfamiliar with.
+
+
+### Day 88: November 15th, Friday
+
+**Today's Progress**:
+1. Worked on the mentorHub partner ui; completed the type ahead feature in the addContact form, built the admin route and the add person route.
