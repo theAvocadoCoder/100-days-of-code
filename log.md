@@ -882,3 +882,9 @@
 
 **Today's Progress**:
 1. Worked on the mentorHub partner ui; completed the type ahead feature in the addContact form, built the admin route and the add person route.
+
+
+### Day 89: Nove,ber 16th, Saturday
+
+**Today's Progress**:
+1. Solved some LeetCode problems in the 30 days of Javascript study plan.
