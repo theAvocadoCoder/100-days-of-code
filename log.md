@@ -884,7 +884,13 @@
 1. Worked on the mentorHub partner ui; completed the type ahead feature in the addContact form, built the admin route and the add person route.
 
 
-### Day 89: Nove,ber 16th, Saturday
+### Day 89: November 16th, Saturday
 
 **Today's Progress**:
 1. Solved some LeetCode problems in the 30 days of Javascript study plan.
+
+
+### Day 90: November 17th, Sunday
+
+**Today's Progress**:
+1. Decided to port to Clerk for IAM. I'm making this decision because my current IAM solution feels too hack-y. Clerk has a more seamless feel to its implementation, and there was really no reason for me to reinvent the wheel here. Currently setting up the endpoint for the Clerk webhook to interface with when a new user is created.
