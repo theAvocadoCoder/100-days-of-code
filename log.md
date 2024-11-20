@@ -895,8 +895,18 @@
 **Today's Progress**:
 1. Decided to port to Clerk for IAM. I'm making this decision because my current IAM solution feels too hack-y. Clerk has a more seamless feel to its implementation, and there was really no reason for me to reinvent the wheel here. Currently setting up the endpoint for the Clerk webhook to interface with when a new user is created.
 
+
 ### Day 91: November 18th, Monday
 
 **Today's Progress**:
 1. Finished setting up the endpoint to save user to the database when created.
 2. Had a persistent bug of my database not being connected at random times. Figured out today that it's because Netlify uses severless functions which are ephemeral. I resolved this by moving the logic for confirming and connecting the database from the mongo io class to the server event handlers. This way, the database willalways be connected before a request is processed.
+
+
+### Day 92: November 19th, Tuesday
+
+**Today's Progress**:
+1. Moved the logic for confirming db connection to a middleware to keep my code dry.
+2. Modified the webhook endpoint so it handles user creation as well as session creation (I did this to handle a case where the user exists on Clerk but hasn't tbeen saved to the database).
+3. Moved the daily card template + logic and the landing page into components so the index route can conditionally render them depending on whether the user is signed in.
+4. Started changing my auth references to use Clerk's composables.
