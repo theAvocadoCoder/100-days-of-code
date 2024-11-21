@@ -910,3 +910,9 @@
 2. Modified the webhook endpoint so it handles user creation as well as session creation (I did this to handle a case where the user exists on Clerk but hasn't tbeen saved to the database).
 3. Moved the daily card template + logic and the landing page into components so the index route can conditionally render them depending on whether the user is signed in.
 4. Started changing my auth references to use Clerk's composables.
+
+
+### Day 93: November 20th, Wednesday
+
+**Today's Progress**:
+1. Fixed all auth references to use Clerk's composables; made a custom composable for fetching the authenticated user and saving user data to local storage; setup the composable to be called when the app loads and when the user signs in or up.
