@@ -916,3 +916,13 @@
 
 **Today's Progress**:
 1. Fixed all auth references to use Clerk's composables; made a custom composable for fetching the authenticated user and saving user data to local storage; setup the composable to be called when the app loads and when the user signs in or up.
+
+
+### Day 94: November 21st, Thursday
+
+**Today's Progress**:
+1. Added a session storage plugin to save the currently opened card. Storing in local storage caused conflicts when the site was open on multiple tabs of the same browser.
+2. Made a list card component for the cards route.
+
+**Thoughts**:
+1. I'm going to put refactoring on the back burner for the remainder of the challenge so I can focus on finishing the MVP for this project. There are maybe 3 or 4 more features to add and I think having a functioning MVP by day 100 would be good for my morale.
