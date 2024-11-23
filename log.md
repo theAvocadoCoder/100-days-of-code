@@ -926,3 +926,9 @@
 
 **Thoughts**:
 1. I'm going to put refactoring on the back burner for the remainder of the challenge so I can focus on finishing the MVP for this project. There are maybe 3 or 4 more features to add and I think having a functioning MVP by day 100 would be good for my morale.
+
+
+### Day 95: November 22nd, Friday
+
+**Today's Progress**:
+1. Solved LeetCode problems. Today was unfortunately hectic and I barely squeezed in that hour.
