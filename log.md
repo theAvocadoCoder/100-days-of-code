@@ -932,3 +932,9 @@
 
 **Today's Progress**:
 1. Solved LeetCode problems. Today was unfortunately hectic and I barely squeezed in that hour.
+
+
+### Day 96: November 23rd, Saturday
+
+**Today;s Progress**:
+1. Worked on the daily bingo chat feature. Moved pubsub logoc into a store so new messages are accessibl globally on the site.
