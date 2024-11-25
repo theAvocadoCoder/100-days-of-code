@@ -938,3 +938,10 @@
 
 **Today;s Progress**:
 1. Worked on the daily bingo chat feature. Moved pubsub logoc into a store so new messages are accessibl globally on the site.
+
+
+### Day 97: November 24t, Sunday
+
+**Today's Progress**:
+1. Fixed a bug that tried to use user data before ithad been fetched, and another that was attempting to connect with the ably channels before the user was signed in.
+2. Currently stuck trying to figure out why I'm having a mongo server selection error again. 
