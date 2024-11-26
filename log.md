@@ -936,12 +936,19 @@
 
 ### Day 96: November 23rd, Saturday
 
-**Today;s Progress**:
+**Today's Progress**:
 1. Worked on the daily bingo chat feature. Moved pubsub logoc into a store so new messages are accessibl globally on the site.
 
 
-### Day 97: November 24t, Sunday
+### Day 97: November 24th, Sunday
 
 **Today's Progress**:
 1. Fixed a bug that tried to use user data before ithad been fetched, and another that was attempting to connect with the ably channels before the user was signed in.
 2. Currently stuck trying to figure out why I'm having a mongo server selection error again. 
+
+
+### Day 98: November 25th, Monday
+
+**Today's Progress**:
+1. I broke something, I'm just not sure what yet. I know it has something to do with how I'm connecting to Ably (my Pub-sub provider). 
+2. I did manage to fix the server selection error after going through the MongoDB docs. Hopefully that was a more permanent fix.
