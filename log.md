@@ -952,3 +952,10 @@
 **Today's Progress**:
 1. I broke something, I'm just not sure what yet. I know it has something to do with how I'm connecting to Ably (my Pub-sub provider). 
 2. I did manage to fix the server selection error after going through the MongoDB docs. Hopefully that was a more permanent fix.
+
+
+### Day 99: November 26th, Tuesday
+
+**Today's Progress**:
+1. I got Ably to connect properly, but I'm still not handling message sending correctly. I'm tempted to move publishing logic back into the chat component butI know that's not a great idea.
+2. It feels a little like I fix one thing and break two more, but I'll keep going. I fixed a bug I noticed in the groups route, added a redirect rule to *try* to account for a Clerk issue that gives me a 'too many redirects' error. That seems to work sometimes and not other times. I'm going to get some sleep and try looking at it with fresh eyes tomorrow.
