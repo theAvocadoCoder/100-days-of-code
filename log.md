@@ -937,13 +937,13 @@
 ### Day 96: November 23rd, Saturday
 
 **Today's Progress**:
-1. Worked on the daily bingo chat feature. Moved pubsub logoc into a store so new messages are accessibl globally on the site.
+1. Worked on the daily bingo chat feature. Moved pubsub logoc into a store so new messages are accessible globally on the site.
 
 
 ### Day 97: November 24th, Sunday
 
 **Today's Progress**:
-1. Fixed a bug that tried to use user data before ithad been fetched, and another that was attempting to connect with the ably channels before the user was signed in.
+1. Fixed a bug that tried to use user data before it had been fetched, and another that was attempting to connect with the ably channels before the user was signed in.
 2. Currently stuck trying to figure out why I'm having a mongo server selection error again. 
 
 
@@ -957,5 +957,14 @@
 ### Day 99: November 26th, Tuesday
 
 **Today's Progress**:
-1. I got Ably to connect properly, but I'm still not handling message sending correctly. I'm tempted to move publishing logic back into the chat component butI know that's not a great idea.
+1. I got Ably to connect properly, but I'm still not handling message sending correctly. I'm tempted to move publishing logic back into the chat component but I know that's not a great idea.
 2. It feels a little like I fix one thing and break two more, but I'll keep going. I fixed a bug I noticed in the groups route, added a redirect rule to *try* to account for a Clerk issue that gives me a 'too many redirects' error. That seems to work sometimes and not other times. I'm going to get some sleep and try looking at it with fresh eyes tomorrow.
+
+
+### Day 100: November 27th, Wednesday
+
+**Today's Progress**:
+1. "Fresh eyes tomorrow" decided to look at other things. I fixed a bug in my layout that was preventing user data from being reactive, fixed another bug in the cards list where it would not refresh the cards after one had been updated, finally figured out how to add a preserve scroll feature for the chat page so it a) scrolls to the bottom when the page loads and b) preserves scroll position when the nested details page is open.
+
+**Thoughts**
+I definitely planned to get more done before the end of this challenge, but I'm still proud of what I was able to accomplish. I've learned a lot, I've gotten about 90% of the mvp done for the daily bingo project, and I've picked up some nice habits. Now, I need to get in some sleep before my body gives out on me.
